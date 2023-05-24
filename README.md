@@ -53,7 +53,7 @@ Corosync - программный продукт, позволяющий реа�
 
 Вторая нода
 
-![3-3](https://github.com/SemkinVA/10.3-HW/blob/main/3-1.png)
+![3-2](https://github.com/SemkinVA/10.3-HW/blob/main/3-2.png)
 ***
 
 
